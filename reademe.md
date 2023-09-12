@@ -23,3 +23,19 @@ IMDb Movie Search es una plataforma web que te permite buscar y explorar informa
 
 ## Estructura de Directorios
 
+## Uso
+
+1. Clona este repositorio en tu máquina local.
+2. Abre los archivos HTML en tu navegador web.
+3. Utiliza la barra de navegación para navegar entre las diferentes secciones de la aplicación.
+4. En la página de "Buscar Películas", ingresa un término de búsqueda y presiona el botón "Buscar" para obtener resultados.
+5. Navega a través de las páginas de resultados utilizando la paginación.
+
+## Autor
+
+- [DIANA MILENA  TORRES RIOS]
+- [dianamikenatorresrios@gmail.com]
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
